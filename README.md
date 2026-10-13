@@ -3,8 +3,8 @@
 VYRON site fabrikasının üretim örneği. Gerçek bir işletme değildir; marka, bungalovlar
 ve fiyatlar kurgudur. Gökyüzü hesapları, fotoğraflar ve ölçümler gerçektir.
 
-- Canlı: https://erdemirigiz-dotcom.github.io/astro-kamp/
-- Yapım notu: https://erdemirigiz-dotcom.github.io/astro-kamp/rehber/
+- Canlı: https://ironvisiontools.github.io/astro-kamp/
+- Yapım notu: https://ironvisiontools.github.io/astro-kamp/rehber/
 - Fotoğraf telifi: `gorseller-kaynak.md` (Pexels License)
 - Üretim kaynağı: site-fabrikasi deposu, `hatlar/astro-kamp/`
 
